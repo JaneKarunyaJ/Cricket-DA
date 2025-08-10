@@ -1,4 +1,4 @@
-# Cricket-DA
+
 Cricket Pose Analysis
 📌 Overview
 This project uses MediaPipe Pose and OpenCV to perform pose estimation and bat angle analysis in cricket videos. It processes each frame of an input cricket video to detect body landmarks, calculate the bat angle, and provide basic performance feedback. The results are saved as both a CSV file and an annotated output video for visual review.
